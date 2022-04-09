@@ -1,0 +1,10 @@
+sv/edu/udb/investigacion2dsm/BuildConfig.java
+ sv.edu.udb.investigacion2dsm.BuildConfig
+sv/edu/udb/investigacion2dsm/model/AppModel.java
+ sv.edu.udb.investigacion2dsm.model.AppModel
+sv/edu/udb/investigacion2dsm/controller/AppController.java
+ sv.edu.udb.investigacion2dsm.controller.AppController
+ sv.edu.udb.investigacion2dsm.controller.AppController$1
+ sv.edu.udb.investigacion2dsm.controller.AppController$2
+sv/edu/udb/investigacion2dsm/MainActivity.java
+ sv.edu.udb.investigacion2dsm.MainActivity

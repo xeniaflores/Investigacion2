@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Investigación 2</string>
+    <string name="app_detalle">Arquitectura CLEAN</string>
+    <string name="app_detalle2">Esta app ocupa un controlador y un modelo para realizar una petición GET al presionar el siguiente botón:</string>
+    <string name="app_btn">Realizar petición</string>
+
+</resources>
